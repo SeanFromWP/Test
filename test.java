@@ -1,4 +1,4 @@
-package team10034.frc2025;
+package frc.robot;
 
 import edu.wpi.first.wpilibj.PWM;
 import edu.wpi.first.wpilibj.TimedRobot;

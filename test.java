@@ -30,3 +30,4 @@ public class Robot extends TimedRobot {
         motor3.setSpeed(spd3);
         motor4.setSpeed(spd4);
     }
+}
